@@ -1,0 +1,14 @@
+Ivan Ivanovich: Добрый вечер!
+Ivan Ivanovich: Здравствуйте! Вы из какой группы?
+Ivan Ivanovich: Я учусь на курсе JDK, а Вы?
+Ivan Ivanovich: Я тоже. Вы сделали задание по второму семинару?
+Ivan Ivanovich: Да. На занятии все подробно объяснили.
+Ivan Ivanovich: Запись семинара уже выложили?
+Ivan Ivanovich: Да, примерно час назад. 
+Ivan Ivanovich: Отлично. Посмотрю. 
+Ivan Ivanovich: Всего хорошего!
+Ivan Ivanovich: И Вам хорошего вечера!
+Ivan Ivanovich: Подскажите, у Вас проверили домашнее задание?
+Ivan Ivanovich: Нет еще. Как правило, на это уходит день-два.
+Ivan Ivanovich: Спасибо за информацию.
+Ivan Ivanovich: Пожалуйста!
