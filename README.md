@@ -11,7 +11,8 @@
 (возможны еще классы по желанию, их мы обсуждали на семинаре). Для связи между классами использовать интерфейсы в соответствии с пятым принципом солид. Можно работать со своим проектом, 
 который вы сдавали в первой домашке, а можно работать с моим проектом (ссылка в материалах к уроку)
 
-! [ссылка на вариант дз первого урока](https://github.com/Liberate520/jdk_server_lesson1)
+![ссылка на вариант дз первого урока](https://github.com/Liberate520/jdk_server_lesson1)
+![ссылка на проект с лекции](https://github.com/Liberate520/animation_test)
+![ссылка на проект с урока](https://github.com/Liberate520/jdk_server_lesson2)
 
-На семинаре мы работали с проектом https://github.com/Liberate520/jdk_server_lesson1/tree/master
-Изменили клиентскую часть проекта с учетом интерфейсов и получили https://github.com/Liberate520/jdk_server_lesson2/tree/master
+
